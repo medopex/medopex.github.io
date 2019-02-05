@@ -30,6 +30,7 @@ section.dark-section {
 @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
         background: #fa826f !important;
+        background: #14adff !important;
     }
 }
 h1-header {
